@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="512" height="512"><svg version="1.1" id="SvgjsSvg1062" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<path d="M9.4,86.6L146.7,224L9.4,361.4c-12.5,12.5-12.5,32.8,0,45.3c12.5,12.5,32.8,12.5,45.3,0l160-160c6-6,9.4-14.2,9.4-22.6
+		c0-8.4-3.4-16.7-9.4-22.6l-160-160c-12.5-12.5-32.8-12.5-45.3,0C-3.1,53.9-3.1,74.1,9.4,86.6L9.4,86.6z"></path>
+	<path d="M256,480h224c17.7,0,32-14.3,32-32c0-17.7-14.3-32-32-32H256c-17.7,0-32,14.3-32,32C224,465.7,238.3,480,256,480"></path>
+</g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
