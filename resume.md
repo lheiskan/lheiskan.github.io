@@ -1,9 +1,10 @@
-
+<!--
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="profile.jpg" />
 
 <span style="float:right;padding:6px"> 
   lauri.heiskanen@nimble.fi <br> mobile: +358 400 887900 <br> Nationality: Finnish
 </span>
+-->
 
 # Software developer  
 
