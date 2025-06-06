@@ -9,16 +9,16 @@
 
 ## Executive Summary
 
-* 20+ years of sofware development and project experience
-* Proficient in .NET, Go, Javascript/Typescript, SQL, Java. Also experience from Python and Kotlin projects.
-* Backend systems, Database systems, Distributed systems, Integrations, Web development, SPA development
+* 20+ years of software development and project experience
+* Proficient in .NET, Go, JavaScript, SQL, Java. Also experience from TypeScript, Python and Kotlin projects.
+* Backend systems, Database systems, Distributed systems, Integrations, Web development, SPA development, Code generation
 * DevOps, CI, Automated cloud deployments, Automated testing
-* Technology strategy, management, team leading, startups
+* Technology strategy, management, team leading, startups, legacy systems
 
 ## Working Experience
 
-* Craftsman Nimble (Freelance developer, 2010 - present) 
-* Volument (Co-founder, CTO, 2020 - 2023) 
+* Craftsman Nimble (Freelance software developer, 2010 - present) 
+* Volument, Co-founder, CTO, (2020 - 2023) 
 * Houston Inc, Senior software developer (2010)  
 * Exidio Oy, CTO, Architect/Lead developer (2004-2010)
 * JA Tietoteollisuus Oy, Software developer (2003-2004)
@@ -29,8 +29,8 @@
 
 * M.Sc. Helsinki University of Technology. Helsinki, Finland. Software engineering, Management (1994-2000)
 * Evanston Township High School, Chicago, IL, USA (1991-1993)
-* Machine Learning Specialization, DeepLearning.AI, Stanford University (2025)
 * Sun certified Java developer (2001)
+* Machine Learning Specialization, DeepLearning.AI, Stanford University (2025)
 
 ## Misc. Information
 
